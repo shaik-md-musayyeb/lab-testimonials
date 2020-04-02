@@ -1,0 +1,10 @@
+div{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div > img{
+    width: 390px;
+    height: 80px;
+}
